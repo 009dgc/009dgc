@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @009dgc
 - 👀 I’m interested in coding , hacking , gaming , content creation 
-- 😶 I like to be alone 
 - 🌱 I’m currently learning python 
 - 📫 How to reach me  by my gmail -      leader00dgc@gmail.com 
 
