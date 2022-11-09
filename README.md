@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm kv009dgc</h1>
 <h3 align="center">A passionate developer from India ,Who is an Middle school student.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kv009dgc" alt="kv009dgc" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend development ,backend development ,Java and Python**
 
 - 📫 How to reach me **leader009dgc@gmail.com**
