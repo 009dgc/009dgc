@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 009dgc</h1>
 <h3 align="center">A passionate developer from India ,Who is an Middle school student.</h3>
 
-- 🌱 I’m currently learning **full stack development,hacking ,Java and Python**
+- 🌱 I’m currently learning **full stack development ,hacking ,Java and Python**
 
 - 📫 How to reach me **leader009dgc@gmail.com**
 
