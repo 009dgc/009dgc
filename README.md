@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm 009dgc</h1>
+<h1 align="center">Hi 👋, I'm DGC</h1>
 <h3 align="center">A passionate developer from India ,Who is an Middle school student.</h3>
 
 - 🌱 I’m currently learning **Full stack development ,Hacking ,Java and Python**
 
 - 📫 How to reach me **leader009dgc@gmail.com**
+- 📫 for any tech support reach my manager at **manager009dgc@gmail.com**
 
 - ⚡ Fun fact **My humor make's people go round.**
 
