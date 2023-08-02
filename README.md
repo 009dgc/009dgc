@@ -1,85 +1,50 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome to DGC - Kartik's Digital World</title>
-    <style>
-        body {
-            background-color: #f0f0f0;
-            color: #333;
-            font-family: Arial, sans-serif;
-        }
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="80" height="80" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" />
+</div>
 
-        h1 {
-            color: #007bff;
-            text-align: center;
-            margin-top: 40px;
-        }
+<h1 align="center"><span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🚀 Welcome to my fantastical odyssey through the boundless realms of technology! 👋</span></h1>
 
-        h3 {
-            text-align: center;
-            font-weight: normal;
-        }
+<p align="center">
+  As a <strong>Tech Visionary</strong> from India, I have embarked on an extraordinary adventure mastering the arts of <strong>Android development</strong>, <strong>web development</strong>, <strong>UI/UX design</strong>, and the mystical powers of <strong>Python</strong>.
+</p>
 
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
+<p align="center">
+  📱 In the captivating realm of Android development, I conjure bewitching mobile applications that breathe life into users' devices, enchanting them with seamless functionalities and spellbinding experiences.
+</p>
 
-        li {
-            margin-bottom: 10px;
-        }
+<p align="center">
+  🌐 The vast web development landscape becomes my enchanted canvas, where I paint intricate designs and weave interactivity into the digital tapestry. My expertise spans across enchanted frameworks like <strong>Flask</strong>, <strong>Node.js</strong>, and the mystical <strong>.NET</strong>, crafting online wonders that leave users spellbound.
+</p>
 
-        .fun-fact {
-            text-align: center;
-            font-style: italic;
-            color: #555;
-        }
+<p align="center">
+  🎨 The mystical art of UI/UX development is where my creativity soars. I wield the power of imagination to craft visually stunning interfaces and seamlessly blend them with intuitive interactions, captivating users in a world of digital enchantment.
+</p>
 
-        .connect-links {
-            text-align: center;
-            margin-top: 20px;
-        }
+<p align="center">
+  🐍 And behold, the magic of Python! With its arcane syntax and versatile capabilities, I harness Python's energies to breathe life into innovative solutions. From conjuring up data-driven spells to creating powerful applications, Python's magic flows through my coding spells.
+</p>
 
-        .connect-links a {
-            display: inline-block;
-            margin-right: 15px;
-            color: #007bff;
-            text-decoration: none;
-        }
+<p align="center">
+  📧 If you dare to explore the depths of this mystical journey and wish to join forces in crafting wondrous tech marvels, do not hesitate to summon me at <strong>leader009dgc@gmail.com</strong>. Together, we shall unlock the secrets of the digital universe and forge a legacy of magic and innovation.
+</p>
 
-        .languages-tools {
-            text-align: center;
-            margin-top: 40px;
-        }
+<p align="center">
+  Embrace the magic, for in this digital realm, the only limit to our potential is the sky itself! 🌟✨🔮
+</p>
 
-        .languages-tools img {
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Hi 👋, I'm DGC</h1>
-    <h3>A passionate developer from India, who is a Middle school student.</h3>
-    <ul>
-        <li>🌱 I’m currently learning <strong>Full stack development, Hacking, Java, and Python</strong></li>
-        <li>📫 How to reach me <a href="mailto:leader009dgc@gmail.com">leader009dgc@gmail.com</a></li>
-        <li>📫 For any tech support, reach my manager at <a href="mailto:manager009dgc@gmail.com">manager009dgc@gmail.com</a></li>
-        <li class="fun-fact">⚡ Fun fact: <strong>My humor makes people go round.</strong></li>
-    </ul>
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+  <a href="https://discord.gg/kv009dgc#1624" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
+  </a>
+  <a href="mailto:manager009dgc@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>
+</p>
 
-    <div class="connect-links">
-        <h3>Connect with me:</h3>
-        <a href="https://discord.gg/kv009dgc#1624" target="_blank">Chat on Discord</a>
-    </div>
-
-    <div class="languages-tools">
-        <h3>Languages and Tools:</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </div>
-</body>
-</html>
+<p align="center">&copy; 2023 Kartik - All rights reserved. 🎉</p>
